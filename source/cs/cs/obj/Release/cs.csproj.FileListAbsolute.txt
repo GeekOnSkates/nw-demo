@@ -1,0 +1,7 @@
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\bin\Release\cs.exe.config
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\bin\Release\cs.exe
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\bin\Release\cs.pdb
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\obj\Release\cs.csprojResolveAssemblyReference.cache
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\obj\Release\cs.csproj.CoreCompileInputs.cache
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\obj\Release\cs.exe
+C:\Media\Code\Projects\public\nw-demo\source\cs\cs\obj\Release\cs.pdb

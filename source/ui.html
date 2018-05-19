@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- The title tag becomes the window title, even if you set it in package.json -->
+<title>My NW.js Demo App</title>
+
+<!-- This is a function I use to run the native programs -->
+<script src="js/run.js"></script>
+
+<!-- This is the onclick events -->
+<script src="js/ui.js"></script>
+
+<!-- Throw in some CSS to make the fonts bigger -->
+<style>
+* { font-size: 20px; margin: 10px; }
+</style>
+
+</head>
+<body>
+
+<!-- Text you enter here will be sent to the background programs -->
+<label>
+Name: <input type="text" id="input" />
+</label>
+
+<!-- These buttons run the background program -->
+<button onclick="RunMyProgram('cs');">C#</button>
+<button onclick="RunMyProgram('cpp');">C++</button>
+<button onclick="RunMyProgram('ahk');">AutoHotKey</button>
+<button onclick="py();">Python 3</button>
+<button onclick="vbs();">VBScript</button>
+
+<!-- Text output by the background programs will go here -->
+<div aria-live="assertive" id="output"></div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+    "main": "source/ui.html",
+    "name": "nw-demo",
+    "description": "How to use NW.js with programs written in native code",
+    "window": {
+        "width": 400
+    }
+}
